@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/H:\\m-source/**)",
+      "Read(/H:\\m-source\\use_ai\\claude/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
